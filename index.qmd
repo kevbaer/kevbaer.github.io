@@ -1,11 +1,17 @@
 ---
-title: "kevbaer.github.io"
+title: "Kevin Baer"
+image: /media/Baer_Headshot_2.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: rectangle
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kevinmbaer/
+    - text: GitHub
+      href: https://github.com/kevbaer
+    - text: Email
+      href: mailto:kevinbaer@ucla.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 5
-```
+Hi! I'm Kevin Baer, a second year data theory major at UCLA. On this website, you'll find my research projects, competition papers, resume, and other fun things. Thanks for stopping by!
