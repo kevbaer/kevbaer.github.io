@@ -29,3 +29,14 @@ $code-color: $purple; // inline code text color
   width: auto;
 }
 
+.dropdown-item {
+  font-weight: bold;
+  background-color: $cream;
+  
+}
+
+.dropdown-item:hover {
+  font-weight: bold;
+  background-color: $purple;
+}
+
