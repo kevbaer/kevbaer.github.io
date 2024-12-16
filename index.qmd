@@ -6,11 +6,14 @@ about:
   template: jolla
   image-shape: rectangle
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/kevinmbaer/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/kevbaer
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:kevinbaer@ucla.edu
 ---
 
