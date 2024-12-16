@@ -4,18 +4,45 @@ project:
 
 website:
   title: "Kevin Baer"
+  favicon: media/kevinbaer_logo_4.png
   navbar:
+    title: false
+    logo: media/kevinbaer_logo_4.png
+    logo-alt: "My name, Kevin Baer, written in a fancy logo font"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - bdb24.qmd
-      - nflpa24.qmd
+      - text: 2024 Projects
+        menu: 
+        - href: bdb24.qmd
+          text: (Big Data Bowl) Swarm Score
+        - href: cmsac24.qmd
+          text: (CMSAC) Digging Deeper
+        - href: nflpa24.qmd
+          text: (NFLPA Analytics Competition) Representing Football
+    right:
+      - href: /media/Baer_Kevin_Resume.pdf
+        text: Resume
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kevinmbaer/
+        target: _blank
+      - icon: github
+        href: https://github.com/kevbaer
+        target: _blank
+      - icon: envelope
+        href: mailto:kevinbaer@ucla.edu
+        target: _blank
+
+
 
 format:
   html:
-    theme: yeti
-    css: styles.css
+    theme: 
+      - yeti
+      - styles.scss
+    mainfont: Laila
     toc: true
     page-layout: full
 

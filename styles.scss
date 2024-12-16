@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&display=swap');
+
+// Colors
+
+$dark-green: #141619;
+$body_bg: #b3b4bd;
+$cream: #F7F7FF;
+$gray: #000;
+$purple: #FE5F55;
+
+// Base document colors
+$navbar-bg: $cream; // navbar
+$navbar-fg: $dark-green; // navbar foreground elements
+$navbar-hl: $purple; // highlight color when hovering over navbar links
+$body-bg: $body_bg; // page background 
+$body-color: $gray; // page text 
+$footer-bg: $cream; // footer 
+$link-color: $purple; // hyperlinks 
+
+// Inline code
+$code-bg: $cream; // inline code background color
+$code-color: $purple; // inline code text color
+
+/*-- scss:rules --*/
+.navbar-brand img { 
+  max-height: 50px;
+  width: auto;
+}
+
