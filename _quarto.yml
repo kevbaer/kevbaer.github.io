@@ -10,8 +10,8 @@ website:
     logo: media/kevinbaer_logo_4.png
     logo-alt: "My name, Kevin Baer, written in a fancy logo font"
     left:
-      - href: index.qmd
-        text: About
+      - text: "About"
+        href: index.qmd
       - projects/projects.qmd
         # menu: 
         # - href: bdb24.qmd
@@ -22,7 +22,7 @@ website:
         #   text: (NFLPA Analytics Competition) Representing Football
       - shiny/shiny.qmd
     right:
-      - href: /media/Baer_Kevin_Resume.pdf
+      - href: /media/Baer_Resume_Aug25.pdf
         text: Resume
         target: _blank
       - icon: linkedin
