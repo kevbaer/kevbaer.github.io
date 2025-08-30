@@ -1,5 +1,7 @@
 ---
 title: "Digging Deeper: Volleyball Metrics with Full-Court Coverage"
+date: "11/02/24"
+categories: [Volleyball, Conference, Poster]
 ---
 
 This page will host content about my CMSAC 2024 presentation on volleyball analytics.

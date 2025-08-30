@@ -1,3 +1,5 @@
 ---
 title: "Swarm Score: Quantifying Rallying to the Football"
+date: "01/08/24"
+categories: [Football, Big Data Bowl, Paper]
 ---

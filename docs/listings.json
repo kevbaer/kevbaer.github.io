@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/pages/cmsac24.html",
+      "/projects/pages/nflpa24.html",
+      "/projects/pages/bdb24.html"
+    ]
+  },
+  {
+    "listing": "/projects/projects.html",
+    "items": [
+      "/projects/pages/nflpa24.html",
+      "/projects/pages/cmsac24.html",
+      "/projects/pages/bdb24.html"
+    ]
+  }
+]

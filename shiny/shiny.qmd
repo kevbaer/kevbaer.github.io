@@ -1,0 +1,20 @@
+---
+title: "Shiny Apps"
+format: html
+editor: visual
+---
+
+It's sometimes hard for me to remember shiny app URLs. So, I've put them here. Unfortunately, the two that I work on currently are not available to the general public. Send me an email if you'd like a guided tour!
+
++-------------------------------------------------------------------------------------------------+----------------------------------+
+| Name                                                                                            | Notes:                           |
++=================================================================================================+==================================+
+| [NCAA Volleyball](https://kevinbaer.shinyapps.io/ncaa_vb/){target="_blank"}                     | -   Under active development     |
+|                                                                                                 | -   Password-protected           |
++-------------------------------------------------------------------------------------------------+----------------------------------+
+| [UCLA Football](https://bruinanalytics.shinyapps.io/ucla-football-consulting/){target="_blank"} | -   Stable                       |
+|                                                                                                 | -   Password-protected           |
++-------------------------------------------------------------------------------------------------+----------------------------------+
+| NFL Draft Simulator                                                                             | -   Coming soon(ish)             |
+|                                                                                                 | -   Will be open for all to use! |
++-------------------------------------------------------------------------------------------------+----------------------------------+

@@ -1,14 +1,18 @@
 /*-- scss:defaults --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Laila&display=swap');
 
 // Colors
+
 
 $dark-green: #141619;
 $body_bg: #b3b4bd;
 $cream: #F7F7FF;
 $gray: #000;
 $purple: #FE5F55;
+$raspberry: #940034;
+$navy: #302c55;
 
 // Base document colors
 $navbar-bg: $cream; // navbar
@@ -17,7 +21,7 @@ $navbar-hl: $purple; // highlight color when hovering over navbar links
 $body-bg: $body_bg; // page background 
 $body-color: $gray; // page text 
 $footer-bg: $cream; // footer 
-$link-color: $purple; // hyperlinks 
+$link-color: $navy; // hyperlinks 
 
 // Inline code
 $code-bg: $cream; // inline code background color
@@ -40,3 +44,6 @@ $code-color: $purple; // inline code text color
   background-color: $purple;
 }
 
+.listing-category {
+  background-color: $cream;
+}

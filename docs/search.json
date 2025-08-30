@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Kevin Baer",
     "section": "",
-    "text": "Hi! I’m Kevin Baer, a second year data theory major at UCLA. On this website, you’ll find my research projects, competition papers, resume, and other fun things. Thanks for stopping by!"
+    "text": "Hi! I’m Kevin Baer, a third year data theory major at UCLA.\nI spend most of my time doing sports analytics work, mainly in football, volleyball, and baseball. I’m currently president of Bruin Sports Analytics, where we do consulting work for a variety of UCLA Division I teams. When I’m not coding, you can find me playing oboe in HOOLIGAN Theatre Company, watching the UCLA men’s volleyball team, or planning DataFest, the largest Data Science hackathon on the West Coast. I love the Sydney Opera House, apples, chess, playing volleyball, and musical theater.\nOn this website, you’ll find my research projects, competition papers, resume, and other fun things. Thanks for stopping by!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "cmsac24.html",
+    "href": "cmsac24.html",
+    "title": "Digging Deeper: Volleyball Metrics with Full-Court Coverage",
+    "section": "",
+    "text": "This page will host content about my CMSAC 2024 presentation on volleyball analytics."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Digging Deeper: Volleyball Metrics with Full-Court Coverage\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRepresenting Football: Advocacy for the Whole NFL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSwarm Score: Quantifying Rallying to the Football\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/pages/cmsac24.html",
+    "href": "projects/pages/cmsac24.html",
+    "title": "Digging Deeper: Volleyball Metrics with Full-Court Coverage",
+    "section": "",
+    "text": "This page will host content about my CMSAC 2024 presentation on volleyball analytics."
+  },
+  {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Representing Football: Advocacy for the Whole NFL\n\n\n\nFootball\n\nCompetition\n\nPaper\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDigging Deeper: Volleyball Metrics with Full-Court Coverage\n\n\n\nVolleyball\n\nConference\n\nPoster\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSwarm Score: Quantifying Rallying to the Football\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 8, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "shiny/shiny.html",
+    "href": "shiny/shiny.html",
+    "title": "Shiny Apps",
+    "section": "",
+    "text": "It’s sometimes hard for me to remember shiny app URLs. So, I’ve put them here. Unfortunately, the two that I work on currently are not available to the general public. Send me an email if you’d like a guided tour!\n\n\n\nName\nNotes:\n\n\n\n\nNCAA Volleyball\n\nUnder active development\nPassword-protected\n\n\n\nUCLA Football\n\nStable\nPassword-protected\n\n\n\nNFL Draft Simulator\n\nComing soon(ish)\nWill be open for all to use!"
   }
 ]

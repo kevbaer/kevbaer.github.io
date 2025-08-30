@@ -11,16 +11,16 @@ website:
     logo-alt: "My name, Kevin Baer, written in a fancy logo font"
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-      - text: 2024 Projects
-        menu: 
-        - href: bdb24.qmd
-          text: (Big Data Bowl) Swarm Score
-        - href: cmsac24.qmd
-          text: (CMSAC) Digging Deeper
-        - href: nflpa24.qmd
-          text: (NFLPA Analytics Competition) Representing Football
+        text: About
+      - projects/projects.qmd
+        # menu: 
+        # - href: bdb24.qmd
+        #   text: (Big Data Bowl) Swarm Score
+        # - href: cmsac24.qmd
+        #   text: (CMSAC) Digging Deeper
+        # - href: nflpa24.qmd
+        #   text: (NFLPA Analytics Competition) Representing Football
+      - shiny/shiny.qmd
     right:
       - href: /media/Baer_Kevin_Resume.pdf
         text: Resume
