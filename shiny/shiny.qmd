@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-It's sometimes hard for me to remember shiny app URLs. So, I've put them here. Unfortunately, the two that I work on currently are not available to the general public. Send me an email if you'd like a guided tour!
+It's sometimes hard for me to remember shiny app URLs. So, I've put them here. Unfortunately, the two that I work on currently are not available to the general public. Send me an [email](mailto:kevinbaer@ucla.edu){target="_blank"} if you'd like a guided tour!
 
 +-------------------------------------------------------------------------------------------------+----------------------------------+
 | Name                                                                                            | Notes:                           |
