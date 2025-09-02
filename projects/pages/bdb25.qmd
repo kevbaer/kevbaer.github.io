@@ -1,0 +1,18 @@
+---
+title: "Defending The Go-Gos: Predicting Slot WR Routes"
+date: "01/06/25"
+categories: [Football, Big Data Bowl, Paper]
+image: "media/15_Carter_Break_Shap.png"
+lightbox: true
+toc: false
+---
+
+### **Big Data Bowl 2025 Entry ([Link](https://www.kaggle.com/code/kevinbaer/defending-the-go-gos-predicting-slot-wr-routes){target="_blank"})**
+
+**Defending The Go-Gos** is a paper on predicting slot receiver routes against man coverage using pre-snap indicators. Slot receivers are difficult to defend in part due to their two-way go or option route possibilities. By predicting the direction and depth of breaks, we can help slot corners play man coverage and allow greater defensive success and diversity of scheme.
+
+![](media/19_full_anim_1386.gif){fig-align="center" width="588"}
+
+![](media/15_Carter_Break_Shap.png){fig-align="center" width="588"}
+
+![](media/11_direction_permutation_vip.png "Permutation-Based Variable Importance for Route Direction"){fig-align="center" width="588"}

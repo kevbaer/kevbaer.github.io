@@ -39,7 +39,7 @@
     "href": "projects/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Representing Football: Advocacy for the Whole NFL\n\n\n\nFootball\n\nCompetition\n\nPaper\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDigging Deeper: Volleyball Metrics with Full-Court Coverage\n\n\n\nVolleyball\n\nConference\n\nPoster\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSwarm Score: Quantifying Rallying to the Football\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 8, 2024\n\n\n\n\n\nNo matching items"
+    "text": "Defending The Go-Gos: Predicting Slot WR Routes\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRepresenting Football: Advocacy for the Whole NFL\n\n\n\nFootball\n\nCompetition\n\nPaper\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDigging Deeper: Volleyball Metrics with Full-Court Coverage\n\n\n\nVolleyball\n\nConference\n\nPoster\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSwarm Score: Quantifying Rallying to the Football\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 8, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "shiny/shiny.html",
@@ -61,5 +61,12 @@
     "title": "Representing Football: Advocacy for the Whole NFL",
     "section": "",
     "text": "NFL Players Association Analytics Case Competition 2024 Entry (Link)\nIn the 2024 NFLPA Analytics Case Competition, we seek to devise a technical way to differentiate tiers of player contracts, describe and analyze the “middle class” of NFL players, and provide guidance to the NFLPA on how best to advocate for these players. We start with a quick explanation of NFL contracts and how to evaluate them, explain our adjustments for salary cap inflation, and then explore the four distinct compensation clusters and how they’ve changed from the past (2015-2017) to the present (2022-2024). We then provide some thoughts on changes in the NFL’s middle-class player stability and success before giving four suggestions on NFLPA advocacy.\n\n\n\n\n\n\n\n\n\n\nTo read the full paper, click here!"
+  },
+  {
+    "objectID": "projects/pages/bdb25.html",
+    "href": "projects/pages/bdb25.html",
+    "title": "Defending The Go-Gos: Predicting Slot WR Routes",
+    "section": "",
+    "text": "Big Data Bowl 2025 Entry (Link)\nDefending The Go-Gos is a paper on predicting slot receiver routes against man coverage using pre-snap indicators. Slot receivers are difficult to defend in part due to their two-way go or option route possibilities. By predicting the direction and depth of breaks, we can help slot corners play man coverage and allow greater defensive success and diversity of scheme."
   }
 ]

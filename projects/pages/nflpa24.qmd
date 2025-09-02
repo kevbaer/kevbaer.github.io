@@ -1,5 +1,5 @@
 ---
-title: " Representing Football: Advocacy for the Whole NFL"
+title: "Representing Football: Advocacy for the Whole NFL"
 date: "12/12/24"
 categories: [Football, Competition, Paper]
 image: "media/NFLPA_Clustering.png" 
