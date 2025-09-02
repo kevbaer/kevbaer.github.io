@@ -1,0 +1,18 @@
+---
+title: "Three Strikes but Make Them Data Science Languages (R, Python, Julia)"
+date: "03/19/25"
+categories: [Baseball, Nick Wan Hackathon, Kaggle Competition]
+image: "media/Wan_Hack_Packages.png"
+lightbox: true
+toc: false
+---
+
+### **Reds Hackathon 2025 Entry ([Link](https://kevbaer.quarto.pub/wan-k-comp/){target="_blank"})**
+
+#### *Finished 2nd*
+
+This is the code notebook to go along with my submission for Nick Wan’s “**Predict strikeouts with new MLB arm angle data”** competition. It’s finals week here at UCLA, so I didn’t have time to really dig into this project. But what I did decide to do was make models in R, Python, and Julia! At its core, it’s a simple model using just the \~150k rows with two strikes in the training set. I believe that this choice allows a much more straightforward process as our train data is more comparable to the test data.
+
+![](media/Wan_Hack_Packages.png){fig-align="center" width="588"}
+
+To read my notebook, click [here](https://kevbaer.quarto.pub/wan-k-comp/){target="_blank"}!
