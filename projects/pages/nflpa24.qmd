@@ -2,4 +2,17 @@
 title: " Representing Football: Advocacy for the Whole NFL"
 date: "12/12/24"
 categories: [Football, Competition, Paper]
+image: "media/NFLPA_Clustering.png" 
+lightbox: true
+toc: false
 ---
+
+### **NFL Players Association Analytics Case Competition 2024 Entry ([Link](https://github.com/kevbaer/nflpa_24){target="_blank"})**
+
+In the 2024 NFLPA Analytics Case Competition, we seek to devise a technical way to differentiate tiers of player contracts, describe and analyze the “middle class” of NFL players, and provide guidance to the NFLPA on how best to advocate for these players. We start with a quick explanation of NFL contracts and how to evaluate them, explain our adjustments for salary cap inflation, and then explore the four distinct compensation clusters and how they’ve changed from the past (2015-2017) to the present (2022-2024). We then provide some thoughts on changes in the NFL’s middle-class player stability and success before giving four suggestions on NFLPA advocacy.
+
+![](media/NFLPA_Clustering.png){fig-align="center" width="588"}
+
+![](media/NFLPA_Barplot.png){fig-align="center" width="588"}
+
+To read the full paper, click [here](https://github.com/kevbaer/nflpa_24/blob/main/NFLPA_FINAL.pdf){target="_blank"}!
