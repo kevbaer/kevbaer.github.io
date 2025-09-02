@@ -39,7 +39,7 @@
     "href": "projects/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Defending The Go-Gos: Predicting Slot WR Routes\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRepresenting Football: Advocacy for the Whole NFL\n\n\n\nFootball\n\nCompetition\n\nPaper\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDigging Deeper: Volleyball Metrics with Full-Court Coverage\n\n\n\nVolleyball\n\nConference\n\nPoster\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSwarm Score: Quantifying Rallying to the Football\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 8, 2024\n\n\n\n\n\nNo matching items"
+    "text": "Predicting Future Playing Time\n\n\n\nBaseball\n\nReds Hackathon\n\nKaggle Competition\n\n\n\n\n\n\n\n\n\nFeb 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDefending The Go-Gos: Predicting Slot WR Routes\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRepresenting Football: Advocacy for the Whole NFL\n\n\n\nFootball\n\nCompetition\n\nPaper\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDigging Deeper: Volleyball Metrics with Full-Court Coverage\n\n\n\nVolleyball\n\nConference\n\nPoster\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSwarm Score: Quantifying Rallying to the Football\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 8, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "shiny/shiny.html",
@@ -68,5 +68,12 @@
     "title": "Defending The Go-Gos: Predicting Slot WR Routes",
     "section": "",
     "text": "Big Data Bowl 2025 Entry (Link)\nDefending The Go-Gos is a paper on predicting slot receiver routes against man coverage using pre-snap indicators. Slot receivers are difficult to defend in part due to their two-way go or option route possibilities. By predicting the direction and depth of breaks, we can help slot corners play man coverage and allow greater defensive success and diversity of scheme."
+  },
+  {
+    "objectID": "projects/pages/Reds_Hack.html",
+    "href": "projects/pages/Reds_Hack.html",
+    "title": "Predicting Future Playing Time",
+    "section": "",
+    "text": "Reds Hackathon 2025 Entry (Link)\n\nFinished 2nd in both the code and presentation portions of the competition\nIn this Hackathon, I developed two ML models to predict future playing for pitchers and hitters from past statistics. I then used permutation based variable importance to inspect the top 10 features for each model to generate insights for front offices!\n\n\n\n\n\nTo view my notebook, click here!\nTo view my code, click here!\nTo view my presentation slides, click here!"
   }
 ]
