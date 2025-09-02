@@ -2,6 +2,20 @@
 title: "Digging Deeper: Volleyball Metrics with Full-Court Coverage"
 date: "11/02/24"
 categories: [Volleyball, Conference, Poster]
+image: "media/WP_Play.png" 
+lightbox: true
 ---
 
-This page will host content about my CMSAC 2024 presentation on volleyball analytics.
+### **CMU Sports Analytics Conference 2024 Entry ([Link](https://github.com/kevbaer/baer-volleyball-digging-deeper){target="_blank"})**
+
+#### *With support from UCLA Undergraduate Research Grant and Professor Dave Zes*
+
+Current volleyball statistics often fail to capture the nuanced performance of players since they are limited to binary outputs of success or failure, similar to stats like batting average or completion percentage. The purpose of this study is to build comprehensive statistics to measure player performance, predict future and hypothetical match outcomes, and enhance viewer enjoyment of volleyball. 6,531 ball contacts from the U19 and U21 Men’s NORCECA Championships were defined and encoded into a pair of values, an input and an output of each touch. The input value represents the quality of the ball before contact, and the output value represents the quality of the ball after contact, allowing for analysis of the individual impact of the contact by taking the difference between the output win probability and the input win probability. My methodology introduces predictive and evaluative metrics, such as position rankings, pre-game win percentages, action-specific rankings, and in-point win probability graphs, offering a richer perspective for players, coaches, and viewers. Different actions can be compared, such as the value of one player’s blocking versus another’s digging, through the player and skill-specific percentage added averages. Players get credit for their direct impact on the point, whether the result is a kill, an overpass, or an out-of-system dig. Teams are assigned a rating based on the performance of all seven starters compared to the average team, allowing for team rankings and win probabilities for hypothetical matchups. These new statistics enable more nuanced comparisons and insights into player performance, tailored to the context of their environment than simple counting stats. Further research could explore opponent adjustments, baseline probabilities for different leagues, and automation of these metrics on platforms like Volleymetrics or VolleyStation to further enhance speed and accuracy.
+
+![](media/Baer_CMSAC_Poster_Img.jpg)
+
+![](media/WP_Play.png)
+
+![](media/named_u19_total_gt.png)
+
+To see the code, click [here](https://github.com/kevbaer/baer-volleyball-digging-deeper){target="_blank"}!
