@@ -47,5 +47,12 @@
     "title": "Shiny Apps",
     "section": "",
     "text": "It’s sometimes hard for me to remember shiny app URLs. So, I’ve put them here. Unfortunately, the two that I work on currently are not available to the general public. Send me an email if you’d like a guided tour!\n\n\n\nName\nNotes:\n\n\n\n\nNCAA Volleyball\n\nUnder active development\nPassword-protected\n\n\n\nUCLA Football\n\nStable\nPassword-protected\n\n\n\nNFL Draft Simulator\n\nComing soon(ish)\nWill be open for all to use!"
+  },
+  {
+    "objectID": "projects/pages/bdb24.html",
+    "href": "projects/pages/bdb24.html",
+    "title": "Swarm Score: Quantifying Rallying to the Football",
+    "section": "",
+    "text": "Big Data Bowl 2024 Entry (Link)\nSwarm Score is a quantitative assessment of the age-old football maxim of rallying to the football and swarming the ball carrier. The statistic is formed by comparing each defender’s bivariate normal spatial influence probability density function against the ball carrier’s spatial influence model to determine how many defenders are swarming the ball carrier to maximize tackling efficiency. Swarm Score proves to be an effective success measure of a variety of tackling statistics such as YAC allowed, YAC over expected allowed, seconds from catch till tackle, EPA allowed, and many more. Finally, Swarm Score is shown to be a much better predictor of future YAC allowed than prior YAC allowed performance, demonstrating it’s stability and effective value.\n\n\n\n\n\nTo read the full paper, click here!\nTo see the code, click here!"
   }
 ]

@@ -41,7 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-5fd581420a35dde54d790922441777a7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-1dee7cf98431446d0b8926b014337708.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -92,20 +95,20 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="../../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../projects/projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../shiny/shiny.html"> 
+<span class="menu-text">Shiny Apps</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../media/Baer_Kevin_Resume.pdf" target="_blank"> 
+    <a class="nav-link" href="../../media/Baer_Resume_Aug25.pdf" target="_blank"> 
 <span class="menu-text">Resume</span></a>
   </li>  
   <li class="nav-item compact">
@@ -134,11 +137,17 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#big-data-bowl-2024-entry-link" id="toc-big-data-bowl-2024-entry-link" class="nav-link active" data-scroll-target="#big-data-bowl-2024-entry-link"><strong>Big Data Bowl 2024 Entry (Link)</strong></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -152,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
     <div>
@@ -170,8 +179,19 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="big-data-bowl-2024-entry-link" class="level3">
+<h3 class="anchored" data-anchor-id="big-data-bowl-2024-entry-link"><strong>Big Data Bowl 2024 Entry (<a href="https://www.kaggle.com/code/kevinbaer/swarm-score-quantifying-rallying-to-the-football" target="_blank">Link</a>)</strong></h3>
+<p><strong>Swarm Score</strong> is a quantitative assessment of the age-old football maxim of rallying to the football and swarming the ball carrier. The statistic is formed by comparing each defender’s bivariate normal spatial influence probability density function against the ball carrier’s spatial influence model to determine how many defenders are swarming the ball carrier to maximize tackling efficiency. Swarm Score proves to be an effective success measure of a variety of tackling statistics such as YAC allowed, YAC over expected allowed, seconds from catch till tackle, EPA allowed, and many more. Finally, Swarm Score is shown to be a much better predictor of future YAC allowed than prior YAC allowed performance, demonstrating it’s stability and effective value.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="media/bdb24.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="media/bdb24.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
+</figure>
+</div>
+<p>To read the full paper, click <a href="https://www.kaggle.com/code/kevinbaer/swarm-score-quantifying-rallying-to-the-football" target="_blank">here</a>!</p>
+<p>To see the code, click <a href="https://github.com/kevbaer/SwarmScoreBDB2024" target="_blank">here</a>!</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -574,6 +594,38 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
