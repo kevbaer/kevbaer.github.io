@@ -14,4 +14,4 @@ listing:
   categories: false
 ---
 
-These data visualizations range from Big Data Bowls to Tidy Tuesdays to club consulting work to summer projects. Everything you see here was made, at least mostly, by me! If you're curious about the story or insights drawn from one of these visualizations, I encourage you to check out my [projects page](/projects/projects.qmd){target="_blank"} for more info woo!
+These data visualizations range from Big Data Bowls to Tidy Tuesdays to club consulting work to summer projects. Everything you see here was made, at least mostly, by me! If you're curious about the story or insights drawn from one of these visualizations, I encourage you to check out my [projects page](/projects/projects.qmd){target="_blank"} for more info!
