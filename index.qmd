@@ -28,4 +28,4 @@ Hi! I'm Kevin Baer, a third year data theory major at UCLA.
 
 I spend most of my time doing sports analytics work, mainly in football, volleyball, and baseball. I'm currently president of Bruin Sports Analytics, where we do consulting work for a variety of UCLA Division I teams. When I'm not coding, you can find me playing oboe in HOOLIGAN Theatre Company, watching the UCLA men's volleyball team, or planning DataFest, the largest Data Science hackathon on the West Coast. I love the Sydney Opera House, apples, chess, playing volleyball, and musical theater.
 
-On this website, you'll find my research projects, competition papers, resume, and other fun things. Thanks for stopping by
+On this website, you'll find my research projects, competition papers, resume, and other fun things. Thanks for stopping by!
