@@ -1,0 +1,16 @@
+---
+title: "RLIFF: A Personal Package"
+date: "12/12/24"
+categories: [R Package Development]
+image: "media/RLIFF_Demo.png" 
+lightbox: true
+toc: false
+---
+
+### **RLIFF Package Development ([Link](https://github.com/kevbaer/RLIFF){target="_blank"})**
+
+I created RLIFF to practice developing R packages, and to provide me with some motivation whenever I open up R. It features three functions, all with special meaning to me. You might find these messages interspersed throughout my online profiles, in my backgrounds on video calls, or in slideshows at my presentations. They're a part of what makes me, me!
+
+![](media/RLIFF_Demo.png){fig-align="center" width="588"}
+
+To view the source code, click [here](https://github.com/kevbaer/RLIFF){target="_blank"}!

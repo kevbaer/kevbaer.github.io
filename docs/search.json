@@ -39,7 +39,7 @@
     "href": "projects/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Three Strikes but Make Them Data Science Languages (R, Python, Julia)\n\n\n\nBaseball\n\nNick Wan Hackathon\n\nKaggle Competition\n\n\n\n\n\n\n\n\n\nMar 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Future Playing Time\n\n\n\nBaseball\n\nReds Hackathon\n\nKaggle Competition\n\n\n\n\n\n\n\n\n\nFeb 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDefending The Go-Gos: Predicting Slot WR Routes\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRepresenting Football: Advocacy for the Whole NFL\n\n\n\nFootball\n\nCompetition\n\nPaper\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDigging Deeper: Volleyball Metrics with Full-Court Coverage\n\n\n\nVolleyball\n\nConference\n\nPoster\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSwarm Score: Quantifying Rallying to the Football\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 8, 2024\n\n\n\n\n\nNo matching items"
+    "text": "Three Strikes but Make Them Data Science Languages (R, Python, Julia)\n\n\n\nBaseball\n\nNick Wan Hackathon\n\nKaggle Competition\n\n\n\n\n\n\n\n\n\nMar 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Future Playing Time\n\n\n\nBaseball\n\nReds Hackathon\n\nKaggle Competition\n\n\n\n\n\n\n\n\n\nFeb 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDefending The Go-Gos: Predicting Slot WR Routes\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRLIFF: A Personal Package\n\n\n\nR Package Development\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRepresenting Football: Advocacy for the Whole NFL\n\n\n\nFootball\n\nCompetition\n\nPaper\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDigging Deeper: Volleyball Metrics with Full-Court Coverage\n\n\n\nVolleyball\n\nConference\n\nPoster\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSwarm Score: Quantifying Rallying to the Football\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 8, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "shiny/shiny.html",
@@ -82,5 +82,12 @@
     "title": "Three Strikes but Make Them Data Science Languages (R, Python, Julia)",
     "section": "",
     "text": "Reds Hackathon 2025 Entry (Link)\n\nFinished 2nd\nThis is the code notebook to go along with my submission for Nick Wan’s “Predict strikeouts with new MLB arm angle data” competition. It’s finals week here at UCLA, so I didn’t have time to really dig into this project. But what I did decide to do was make models in R, Python, and Julia! At its core, it’s a simple model using just the ~150k rows with two strikes in the training set. I believe that this choice allows a much more straightforward process as our train data is more comparable to the test data.\n\n\n\n\n\nTo read my notebook, click here!"
+  },
+  {
+    "objectID": "projects/pages/rliff.html",
+    "href": "projects/pages/rliff.html",
+    "title": "RLIFF: A Personal Package",
+    "section": "",
+    "text": "RLIFF Package Development (Link)\nI created RLIFF to practice developing R packages, and to provide me with some motivation whenever I open up R. It features three functions, all with special meaning to me. You might find these messages interspersed throughout my online profiles, in my backgrounds on video calls, or in slideshows at my presentations. They’re a part of what makes me, me!\n\n\n\n\n\nTo view the source code, click here!"
   }
 ]
