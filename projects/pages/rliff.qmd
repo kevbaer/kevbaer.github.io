@@ -1,6 +1,6 @@
 ---
 title: "RLIFF: A Personal Package"
-date: "12/12/24"
+date: "03/08/25"
 categories: [R Package Development]
 image: "media/RLIFF_Demo.png" 
 lightbox: true
