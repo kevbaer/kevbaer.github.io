@@ -1,0 +1,17 @@
+---
+title: "Data Viz Gallery"
+editor: visual
+lightbox: true
+page-layout: full
+listing:
+  id: listing-gallery
+  template: gallery.ejs
+  contents:
+    - gallery/*.jpg
+    - gallery/*.png
+  sort-ui: false
+  filter-ui: false
+  categories: false
+---
+
+These data visualizations range from Big Data Bowls to Tidy Tuesdays to club consulting work to summer projects. Everything you see here was made, at least mostly, by me! If you're curious about the story or insights drawn from one of these visualizations, I encourage you to check out my [projects page](kevbaer.github.io/projects/projects.html){target="_blank"} for more info!

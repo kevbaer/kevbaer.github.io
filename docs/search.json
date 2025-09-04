@@ -39,7 +39,7 @@
     "href": "projects/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Three Strikes but Make Them Data Science Languages (R, Python, Julia)\n\n\n\nBaseball\n\nNick Wan Hackathon\n\nKaggle Competition\n\n\n\n\n\n\n\n\n\nMar 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Future Playing Time\n\n\n\nBaseball\n\nReds Hackathon\n\nKaggle Competition\n\n\n\n\n\n\n\n\n\nFeb 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDefending The Go-Gos: Predicting Slot WR Routes\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRLIFF: A Personal Package\n\n\n\nR Package Development\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRepresenting Football: Advocacy for the Whole NFL\n\n\n\nFootball\n\nCompetition\n\nPaper\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDigging Deeper: Volleyball Metrics with Full-Court Coverage\n\n\n\nVolleyball\n\nConference\n\nPoster\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSwarm Score: Quantifying Rallying to the Football\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 8, 2024\n\n\n\n\n\nNo matching items"
+    "text": "Three Strikes but Make Them Data Science Languages (R, Python, Julia)\n\n\n\nBaseball\n\nNick Wan Hackathon\n\nKaggle Competition\n\n\n\n\n\n\n\n\n\nMar 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRLIFF: A Personal Package\n\n\n\nR Package Development\n\n\n\n\n\n\n\n\n\nMar 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Future Playing Time\n\n\n\nBaseball\n\nReds Hackathon\n\nKaggle Competition\n\n\n\n\n\n\n\n\n\nFeb 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDefending The Go-Gos: Predicting Slot WR Routes\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRepresenting Football: Advocacy for the Whole NFL\n\n\n\nFootball\n\nCompetition\n\nPaper\n\n\n\n\n\n\n\n\n\nDec 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nDigging Deeper: Volleyball Metrics with Full-Court Coverage\n\n\n\nVolleyball\n\nConference\n\nPoster\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSwarm Score: Quantifying Rallying to the Football\n\n\n\nFootball\n\nBig Data Bowl\n\nPaper\n\n\n\n\n\n\n\n\n\nJan 8, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "shiny/shiny.html",
@@ -89,5 +89,12 @@
     "title": "RLIFF: A Personal Package",
     "section": "",
     "text": "RLIFF Package Development (Link)\nI created RLIFF to practice developing R packages, and to provide me with some motivation whenever I open up R. It features three functions, all with special meaning to me. You might find these messages interspersed throughout my online profiles, in my backgrounds on video calls, or in slideshows at my presentations. They’re a part of what makes me, me!\n\n\n\n\n\nTo view the source code, click here!"
+  },
+  {
+    "objectID": "data_viz/gallery.html",
+    "href": "data_viz/gallery.html",
+    "title": "Data Viz Gallery",
+    "section": "",
+    "text": "These data visualizations range from Big Data Bowls to Tidy Tuesdays to club consulting work to summer projects. Everything you see here was made, at least mostly, by me! If you’re curious about the story or insights drawn from one of these visualizations, I encourage you to check out my projects page for more info!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
