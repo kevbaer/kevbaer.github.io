@@ -1,11 +1,7 @@
 [
   {
-    "listing": "/projects/index.html",
-    "items": [
-      "/projects/pages/cmsac24.html",
-      "/projects/pages/nflpa24.html",
-      "/projects/pages/bdb24.html"
-    ]
+    "listing": "/data_viz/gallery.html",
+    "items": []
   },
   {
     "listing": "/projects/projects.html",
@@ -18,9 +14,5 @@
       "/projects/pages/cmsac24.html",
       "/projects/pages/bdb24.html"
     ]
-  },
-  {
-    "listing": "/data_viz/gallery.html",
-    "items": []
   }
 ]
