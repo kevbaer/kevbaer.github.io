@@ -22,6 +22,7 @@ website:
         #   text: (NFLPA Analytics Competition) Representing Football
       - shiny/shiny.qmd
       - data_viz/gallery.qmd
+      - bookshelf/Bookshelf.qmd
     right:
       - href: /media/Baer_Resume_Aug25.pdf
         text: Resume

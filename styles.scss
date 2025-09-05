@@ -15,6 +15,14 @@ $raspberry: #940034;
 $navy: #302c55;
 $light-blue: #0188ac;
 
+$bold-heavy: 1000;
+$bold-shadow: 0.5px 0 0 currentColor;
+
+@mixin extra-bold {
+  font-weight: $bold-heavy;
+  text-shadow: $bold-shadow;
+}
+
 // Base document colors
 $navbar-bg: $cream; // navbar
 $navbar-fg: $dark-green; // navbar foreground elements
@@ -47,4 +55,8 @@ $code-color: $purple; // inline code text color
 
 .listing-category {
   background-color: $cream;
+}
+
+strong, b {
+  @include extra-bold;
 }
