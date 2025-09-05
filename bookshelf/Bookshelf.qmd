@@ -22,7 +22,7 @@ Keep up with my reading habits! Feel free to [email](mailto:kevinbaer@ucla.edu){
 
 -   **The Visual Display of Quantitative Information** by Edward Tufte
 
-### Past Favorites (In rough order of frequence of reference):
+### Past Favorites (in rough order by frequence of reference):
 
 -   **Tidy Modeling with R** by Max Kuhn and Julia Silge
 
