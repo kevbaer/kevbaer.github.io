@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,14 +35,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-8fcc9319fc75b8a9b106da9811a66596.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-43a9c02ffba8f3f21e6521faf90ca04b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,7 +115,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -140,7 +141,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../media/kevinbaer_logo_4.png" alt="My name, Kevin Baer, written in a fancy logo font" class="navbar-logo">
+    <img src="../media/kevinbaer_logo_4.png" alt="My name, Kevin Baer, written in a fancy logo font" class="navbar-logo light-content">
+    <img src="../media/kevinbaer_logo_4.png" alt="My name, Kevin Baer, written in a fancy logo font" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -203,7 +205,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="QmFzZWJhbGw=">Baseball <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QmlnJTIwRGF0YSUyMEJvd2w=">Big Data Bowl <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q29tcGV0aXRpb24=">Competition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29uZmVyZW5jZQ==">Conference <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rm9vdGJhbGw=">Football <span class="quarto-category-count">(3)</span></div><div class="category" data-category="S2FnZ2xlJTIwQ29tcGV0aXRpb24=">Kaggle Competition <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TmljayUyMFdhbiUyMEhhY2thdGhvbg==">Nick Wan Hackathon <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGFwZXI=">Paper <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UG9zdGVy">Poster <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UiUyMFBhY2thZ2UlMjBEZXZlbG9wbWVudA==">R Package Development <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVkcyUyMEhhY2thdGhvbg==">Reds Hackathon <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Vm9sbGV5YmFsbA==">Volleyball <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="QmFzZWJhbGw=">Baseball <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QmlnJTIwRGF0YSUyMEJvd2w=">Big Data Bowl <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Q29tcGV0aXRpb24=">Competition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29uZmVyZW5jZQ==">Conference <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rm9vdGJhbGw=">Football <span class="quarto-category-count">(4)</span></div><div class="category" data-category="S2FnZ2xlJTIwQ29tcGV0aXRpb24=">Kaggle Competition <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TmljayUyMFdhbiUyMEhhY2thdGhvbg==">Nick Wan Hackathon <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGFwZXI=">Paper <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UG9zdGVy">Poster <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UiUyMFBhY2thZ2UlMjBEZXZlbG9wbWVudA==">R Package Development <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVkcyUyMEhhY2thdGhvbg==">Reds Hackathon <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Vm9sbGV5YmFsbA==">Volleyball <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -232,7 +234,38 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="QmFzZWJhbGwlMkNOaWNrJTIwV2FuJTIwSGFja2F0aG9uJTJDS2FnZ2xlJTIwQ29tcGV0aXRpb24=" data-listing-date-sort="1742356800000" data-listing-file-modified-sort="1756952746359" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<div class="quarto-post image-right" data-index="0" data-categories="Rm9vdGJhbGwlMkNCaWclMjBEYXRhJTIwQm93bCUyQ1BhcGVy" data-listing-date-sort="1765947600000" data-listing-file-modified-sort="1767553552823" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="43">
+<div class="thumbnail"><a href="../projects/pages/bdb26.html" class="no-external">
+
+<img loading="lazy" src="../projects/pages/media/HQIOC.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/pages/bdb26.html" class="no-external">Swiper, No Swiping: Measuring High Quality Interception Opportunity Creation</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9vdGJhbGw='); return false;">Football</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('QmlnJTIwRGF0YSUyMEJvd2w='); return false;">Big Data Bowl</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UGFwZXI='); return false;">Paper</div>
+
+</div>
+<div class="delink listing-description"><a href="../projects/pages/bdb26.html" class="no-external">
+In <strong>Swiper, No Swiping: Measuring High Quality Interception Opportunity Creation</strong>, we quantify how often defenders create interception opportunities by controlling space at…<br>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../projects/pages/bdb26.html" class="no-external">
+<div class="listing-date">
+Dec 17, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="QmFzZWJhbGwlMkNOaWNrJTIwV2FuJTIwSGFja2F0aG9uJTJDS2FnZ2xlJTIwQ29tcGV0aXRpb24=" data-listing-date-sort="1742356800000" data-listing-file-modified-sort="1756952746359" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
 <div class="thumbnail"><a href="../projects/pages/Wan_Hack.html" class="no-external">
 
 <img loading="lazy" src="../projects/pages/media/Wan_Hack_Packages.png" class="thumbnail-image">
@@ -263,7 +296,7 @@ Mar 19, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="UiUyMFBhY2thZ2UlMjBEZXZlbG9wbWVudA==" data-listing-date-sort="1741410000000" data-listing-file-modified-sort="1756952746376" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="67">
+<div class="quarto-post image-right" data-index="2" data-categories="UiUyMFBhY2thZ2UlMjBEZXZlbG9wbWVudA==" data-listing-date-sort="1741410000000" data-listing-file-modified-sort="1756952746376" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="67">
 <div class="thumbnail"><a href="../projects/pages/rliff.html" class="no-external">
 
 <img loading="lazy" src="../projects/pages/media/RLIFF_Demo.png" class="thumbnail-image">
@@ -290,7 +323,7 @@ Mar 8, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="QmFzZWJhbGwlMkNSZWRzJTIwSGFja2F0aG9uJTJDS2FnZ2xlJTIwQ29tcGV0aXRpb24=" data-listing-date-sort="1739682000000" data-listing-file-modified-sort="1756952746358" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
+<div class="quarto-post image-right" data-index="3" data-categories="QmFzZWJhbGwlMkNSZWRzJTIwSGFja2F0aG9uJTJDS2FnZ2xlJTIwQ29tcGV0aXRpb24=" data-listing-date-sort="1739682000000" data-listing-file-modified-sort="1756952746358" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
 <div class="thumbnail"><a href="../projects/pages/Reds_Hack.html" class="no-external">
 
 <img loading="lazy" src="../projects/pages/media/11_Pitcher_VIP.png" class="thumbnail-image">
@@ -321,7 +354,7 @@ Feb 16, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="Rm9vdGJhbGwlMkNCaWclMjBEYXRhJTIwQm93bCUyQ1BhcGVy" data-listing-date-sort="1736139600000" data-listing-file-modified-sort="1756952746363" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<div class="quarto-post image-right" data-index="4" data-categories="Rm9vdGJhbGwlMkNCaWclMjBEYXRhJTIwQm93bCUyQ1BhcGVy" data-listing-date-sort="1736139600000" data-listing-file-modified-sort="1756952746363" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
 <div class="thumbnail"><a href="../projects/pages/bdb25.html" class="no-external">
 
 <img loading="lazy" src="../projects/pages/media/15_Carter_Break_Shap.png" class="thumbnail-image">
@@ -352,7 +385,7 @@ Jan 6, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="Rm9vdGJhbGwlMkNDb21wZXRpdGlvbiUyQ1BhcGVy" data-listing-date-sort="1733979600000" data-listing-file-modified-sort="1756952746374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
+<div class="quarto-post image-right" data-index="5" data-categories="Rm9vdGJhbGwlMkNDb21wZXRpdGlvbiUyQ1BhcGVy" data-listing-date-sort="1733979600000" data-listing-file-modified-sort="1756952746374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
 <div class="thumbnail"><a href="../projects/pages/nflpa24.html" class="no-external">
 
 <img loading="lazy" src="../projects/pages/media/NFLPA_Clustering.png" class="thumbnail-image">
@@ -383,7 +416,7 @@ Dec 12, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="Vm9sbGV5YmFsbCUyQ0NvbmZlcmVuY2UlMkNQb3N0ZXI=" data-listing-date-sort="1730520000000" data-listing-file-modified-sort="1756952746363" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="307">
+<div class="quarto-post image-right" data-index="6" data-categories="Vm9sbGV5YmFsbCUyQ0NvbmZlcmVuY2UlMkNQb3N0ZXI=" data-listing-date-sort="1730520000000" data-listing-file-modified-sort="1756952746363" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="307">
 <div class="thumbnail"><a href="../projects/pages/cmsac24.html" class="no-external">
 
 <img loading="lazy" src="../projects/pages/media/WP_Play.png" class="thumbnail-image">
@@ -414,7 +447,7 @@ Nov 2, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="Rm9vdGJhbGwlMkNCaWclMjBEYXRhJTIwQm93bCUyQ1BhcGVy" data-listing-date-sort="1704690000000" data-listing-file-modified-sort="1756952746361" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
+<div class="quarto-post image-right" data-index="7" data-categories="Rm9vdGJhbGwlMkNCaWclMjBEYXRhJTIwQm93bCUyQ1BhcGVy" data-listing-date-sort="1704690000000" data-listing-file-modified-sort="1756952746361" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
 <div class="thumbnail"><a href="../projects/pages/bdb24.html" class="no-external">
 
 <img loading="lazy" src="../projects/pages/media/bdb24.jpg" class="thumbnail-image">
@@ -499,13 +532,14 @@ Jan 8, 2024
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

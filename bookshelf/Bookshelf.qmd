@@ -4,13 +4,13 @@ editor: visual
 toc: false
 ---
 
-Keep up with my reading habits! Feel free to [email](mailto:kevinbaer@ucla.edu){target="_blank"} me recommendations! (Last updated: September 4th, 2025)
+Keep up with my reading habits! Feel free to [email](mailto:kevinbaer@ucla.edu){target="_blank"} me recommendations! (Last updated: January 4th, 2026)
 
 ### Currently Reading:
 
--   ⭐ **An Introduction to Statistical Learning in R (ISLR)** by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+-   ⭐ **Bayes Rules!** by Alicia Johnson, Miles Ott, and Mine Dogucu
 
-    -   Accompanied by: **ISLR tidymodels labs** by Emil Hvitfeldt
+    -   Accompanied by: **Bayesf22 Notebook** by Andrew Heiss
 
 ### In Progress:
 
@@ -23,6 +23,10 @@ Keep up with my reading habits! Feel free to [email](mailto:kevinbaer@ucla.edu){
 -   **The Visual Display of Quantitative Information** by Edward Tufte
 
 ### Past Favorites (in rough order by frequence of reference):
+
+-    **An Introduction to Statistical Learning in R (ISLR)** by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+
+    -   Accompanied by: **ISLR tidymodels labs** by Emil Hvitfeldt
 
 -   **Tidy Modeling with R** by Max Kuhn and Julia Silge
 
@@ -47,10 +51,6 @@ Keep up with my reading habits! Feel free to [email](mailto:kevinbaer@ucla.edu){
 -   **Class Notes - Introduction to Probability (UCLA Stats 100a - Spring 2025)** by Ying Nian Wu
 
 ### Waiting For Their Moment:
-
--   **Bayes Rules!** by Alicia Johnson, Miles Ott, and Mine Dogucu
-
-    -   Accompanied by: **Bayesf22 Notebook** by Andrew Heiss
 
 -   **Beyond Multiple Linear Regression** by Paul Roback and Julie Legler
 

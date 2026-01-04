@@ -1,0 +1,19 @@
+---
+title: "Swiper, No Swiping: Measuring High Quality Interception Opportunity Creation"
+date: "2025/12/17"
+categories: [Football, Big Data Bowl, Paper]
+image: "media/HQIOC.png"
+lightbox: true
+toc: false
+---
+
+### **Big Data Bowl 2026 Entry ([Link](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/HQIOs){target="_blank"})**
+
+#### With Daniel Wang and Anthony Zhao
+
+In **Swiper, No Swiping: Measuring High Quality Interception Opportunity Creation**, we quantify how often defenders create interception opportunities by controlling space at the ball’s arrival, not just recording turnovers. Click on the above link for more information.[\
+](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics)
+
+![](media/HQIOC.png){fig-align="center"}
+
+![](media/Sutton_Gardner_Rep.gif){fig-align="center"}
