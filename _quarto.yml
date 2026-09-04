@@ -24,7 +24,7 @@ website:
       - data_viz/gallery.qmd
       - bookshelf/Bookshelf.qmd
     right:
-      - href: /media/Baer_Resume_Aug25.pdf
+      - href: /media/Baer_Resume.pdf
         text: Resume
         target: _blank
       - icon: linkedin
