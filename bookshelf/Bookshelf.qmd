@@ -4,7 +4,7 @@ editor: visual
 toc: false
 ---
 
-Keep up with my reading habits! Feel free to [email](mailto:kevinbaer@ucla.edu){target="_blank"} me recommendations! (Last updated: January 4th, 2026)
+Keep up with my reading habits! Feel free to [email](mailto:kevinbaer@ucla.edu){target="_blank"} me recommendations! (Last updated: September 3rd, 2026)
 
 ### Currently Reading:
 
@@ -12,13 +12,13 @@ Keep up with my reading habits! Feel free to [email](mailto:kevinbaer@ucla.edu){
 
     -   Accompanied by: **Bayesf22 Notebook** by Andrew Heiss
 
+-   **Statistical Rethinking: A Bayesian Course with Examples in R and Stan** by Richard McElreath
+
 ### In Progress:
 
 -   **Python Polars: The Definitive Guide** by Jeroen Janssens and Thijs Nieuwdorp
 
 -   **Data Science for Business** by Foster Provost and Tom Fawcett
-
--   **Spatio-Temporal Statistics with R** by Christopher Wikle, Andrew Zammit-Mangion, and Noel Cressie
 
 -   **The Visual Display of Quantitative Information** by Edward Tufte
 
@@ -26,29 +26,16 @@ Keep up with my reading habits! Feel free to [email](mailto:kevinbaer@ucla.edu){
 
 -   **An Introduction to Statistical Learning in R (ISLR)** by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
     -   Accompanied by: **ISLR tidymodels labs** by Emil Hvitfeldt
-
-<!-- -->
-
 -   **Tidy Modeling with R** by Max Kuhn and Julia Silge
-
 -   **Mastering Shiny** by Hadley Wickham
-
 -   **ggplot2: Elegant Graphics for Data Analysis** by Hadley Wickham, Danielle Navarro
-
 -   **Class Notes - Intro To Database Systems** **(CMU 15-445/645 - Fall 2024)** by Andy Pavlo
-
 -   **Advanced R** by Hadley Wickham
-
 -   **R for Data Science** by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
-
 -   **Class Notes - Introduction to Data Analysis and Regression** (**UCLA Stats 101a - Spring 2025)** by Robert Gould
-
 -   **Class Notes - Python and Other Technologies for Data Science (UCLA Stats 21 - Fall 2024)** by Miles Chen
-
 -   **SQL for Data Scientists** by Renée Teat
-
 -   **Class Notes -** **Introduction to Statistical Programming with R** **(UCLA Stats 20 - Spring 2024)** by Mike Tsiang
-
 -   **Class Notes - Introduction to Probability (UCLA Stats 100a - Spring 2025)** by Ying Nian Wu
 
 ### Waiting For Their Moment:
@@ -75,8 +62,6 @@ Keep up with my reading habits! Feel free to [email](mailto:kevinbaer@ucla.edu){
 
 -   **Feature Engineering and Selection: A Practical Approach for Predictive Models** by Max Kuhn and Kjell Johnson
 
--   **Statistical Rethinking: A Bayesian Course with Examples in R and Stan** by Richard McElreath
-
 -   **Probabilistic Machine Learning: An Introduction** by Kevin Murphy
 
 -   **The Elements of Statistical Learning** by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
@@ -94,3 +79,5 @@ Keep up with my reading habits! Feel free to [email](mailto:kevinbaer@ucla.edu){
 -   **Class Notes - Advanced Database Systems (CMU 15-721 Spring 2024)** by Andy Pavlo
 
 -   **Linear Model and Extensions** by Peng Ding
+
+-   **Spatio-Temporal Statistics with R** by Christopher Wikle, Andrew Zammit-Mangion, and Noel Cressie

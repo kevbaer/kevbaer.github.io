@@ -19,3 +19,5 @@ It's sometimes hard for me to remember shiny app URLs. So, I've put them here. U
 | NFL Draft Simulator                                                                             | -   Coming soon(ish)             |
 |                                                                                                 | -   Will be open for all to use! |
 +-------------------------------------------------------------------------------------------------+----------------------------------+
+
+My main task while I was with the Seattle Mariners this past summer was also R Shiny app development.

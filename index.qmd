@@ -18,14 +18,10 @@ about:
       text: Email
       href: mailto:kevinbaer@ucla.edu
       target: _blank
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/profile/kevinbaer.bsky.social
-      target: _blank
 ---
 
-Hi! I'm Kevin Baer, a third year data theory major at UCLA.
+Hi! I'm Kevin Baer, a fourth year data theory major at UCLA. This past summer, I worked for the Seattle Mariners as the baseball projects intern.
 
-I spend most of my time doing sports analytics work, mainly in football, volleyball, and baseball. I'm currently president of Bruin Sports Analytics, where we do consulting work for a variety of UCLA Division I teams. When I'm not coding, you can find me playing oboe in HOOLIGAN Theatre Company, watching the UCLA men's volleyball team, or planning DataFest, the largest Data Science hackathon on the West Coast. I love the Sydney Opera House, apples, chess, playing volleyball, and musical theater.
+I spend most of my time doing sports analytics work, mainly in football, volleyball, and baseball. Last year I was president of Bruin Sports Analytics, where we do consulting work for a variety of UCLA Division I teams. When I'm not coding, you can find me playing oboe in HOOLIGAN Theatre Company, watching the UCLA men's volleyball team, or planning DataFest, the largest Data Science hackathon on the West Coast. I love the Sydney Opera House, apples, chess, playing volleyball, and musical theater.
 
 On this website, you'll find my research projects, competition papers, resume, and other fun things. Thanks for stopping by!
